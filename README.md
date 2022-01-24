@@ -1,4 +1,4 @@
-### Hi there 👋
+### About
 
 Frontend developer/designer working with code and pixels.
 
