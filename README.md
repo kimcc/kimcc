@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Wordle 219 5/6
+
+⬛🟨🟨⬛⬛ <br />
+⬛⬛⬛⬛⬛ <br />
+⬛⬛🟩⬛🟨 <br />
+⬛🟨⬛🟩⬛ <br />
+🟩🟩🟩🟩🟩 <br />
+
+🌿 [Portfolio](https://kimcc.dev) <br />
+📮 [Email](mailto:kimccdev@protonmail.com) <br />
+📓 [Blog](https://dev.to/kimcc)
+
 <!--
 **kimcc/kimcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
