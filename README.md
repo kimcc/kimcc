@@ -1,12 +1,17 @@
 ### Hi there 👋
 
-Wordle 219 5/6
+Frontend developer/designer working with code and pixels.
+
+
+**Wordle 219 5/6**
 
 ⬛🟨🟨⬛⬛ <br />
 ⬛⬛⬛⬛⬛ <br />
 ⬛⬛🟩⬛🟨 <br />
 ⬛🟨⬛🟩⬛ <br />
 🟩🟩🟩🟩🟩 <br />
+
+**Links**
 
 🌿 [Portfolio](https://kimcc.dev) <br />
 📮 [Email](mailto:kimccdev@protonmail.com) <br />
