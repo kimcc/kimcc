@@ -3,10 +3,10 @@
 Frontend developer/designer working with code and pixels.
 
 
-**Wordle 224 3/6**
+**Wordle 228 3/6**
 
 ⬛⬛⬛⬛⬛ <br />
-⬛🟩🟩⬛⬛ <br />
+⬛🟩⬛⬛⬛ <br />
 🟩🟩🟩🟩🟩 <br />
 
 **Links**
