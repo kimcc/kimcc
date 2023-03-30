@@ -14,4 +14,3 @@ Frontend developer/designer working with code and pixels.
 
 🌿 [Portfolio](https://kimcc.dev) <br />
 📮 [Email](mailto:kimccdev@protonmail.com) <br />
-📓 [Blog](https://dev.to/kimcc)
